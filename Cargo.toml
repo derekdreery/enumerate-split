@@ -1,0 +1,12 @@
+[package]
+name = "enumerate-split"
+description = "2 dimensional version of Enumerate from the standard library"
+documentation = "https://derekdreery.github.io/enumerate-split/enumerate_split/index.html"
+repository = "https://github.com/derekdreery/enumerate-split"
+readme = "./README.md"
+keywords = ["iterator", "iter", "enumerate"]
+license = "Apache-2.0/MIT"
+version = "0.0.1"
+authors = ["Richard Dodd <richdodj@gmail.com>"]
+
+[dependencies]
