@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["enumerate_split","Similar to enumerate but gives (usize, usize) where first is block number and second is block position (indexed by 0)"]],"struct":[["EnumerateSplit","Don't use this struct directly, use enumerate_split"]]});
