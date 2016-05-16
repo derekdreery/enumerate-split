@@ -3,7 +3,7 @@
 Like enumerate, but splits into blocks based on some value (like `'\n'` for
 lines) and gives the block number and the block position as `(usize, usize)`
 
-[documentation](https://derekdreery.github.io/enumerate-split/enumerate_split/index.php)
+[documentation](https://derekdreery.github.io/enumerate-split/enumerate_split/index.html)
 
 ## Usage
 ```toml
